@@ -716,7 +716,9 @@ img {
     width: 220px;
   }
   .about__information {
-    padding-left: 4rem;
+/*     padding-left: 4rem; */
+    align-items: center;
+    color: white;
   }
   .education__time {
     padding: 0 2rem;
